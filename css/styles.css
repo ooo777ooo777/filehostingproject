@@ -1,0 +1,47 @@
+body {
+ background-color: #ddd5ed;
+ min-height: 95vh;
+}
+
+.nav-bar {
+ color: black;
+ text-align: center;
+}
+
+a {
+ color: #252433;
+}
+
+.main-text-bar {
+ color: #252433;
+ text-align: center;
+}
+
+.login-form {
+ color: #252433;
+ text-align: center;
+}
+
+.registration-form {
+  color: #252433;
+  text-align: center;
+ }
+
+ .upload-section {
+  color: #252433;
+  text-align: center;
+ }
+
+ table {
+  width: 100%;
+  color: #252433;
+  text-align: center;
+  border: 1px solid;
+  }
+
+.sticky-footer {
+ color: #252433;
+ position: sticky;
+ text-align: center;
+ top: 100%;
+}
